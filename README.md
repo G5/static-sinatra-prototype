@@ -13,7 +13,7 @@ bundle
 
 1. Rackup
 ```bash
-bundle exec rackup
+rackup
 ```
 
 
